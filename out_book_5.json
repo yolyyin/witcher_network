@@ -1,0 +1,1956 @@
+{
+    "links": [
+        {
+            "source": "Milva",
+            "target": "Forest",
+            "value": 1
+        },
+        {
+            "source": "Maria",
+            "target": "Milva",
+            "value": 5
+        },
+        {
+            "source": "Codringher",
+            "target": "Milva",
+            "value": 2
+        },
+        {
+            "source": "Milva",
+            "target": "Geralt",
+            "value": 48
+        },
+        {
+            "source": "Geralt",
+            "target": "Maria",
+            "value": 1
+        },
+        {
+            "source": "Milva",
+            "target": "Ori",
+            "value": 7.5
+        },
+        {
+            "source": "Ori",
+            "target": "Philippa",
+            "value": 3
+        },
+        {
+            "source": "Ori",
+            "target": "Triss",
+            "value": 1
+        },
+        {
+            "source": "Philippa",
+            "target": "Triss",
+            "value": 4
+        },
+        {
+            "source": "Yennefer",
+            "target": "Artaud",
+            "value": 1
+        },
+        {
+            "source": "Artaud",
+            "target": "Ori",
+            "value": 2
+        },
+        {
+            "source": "Yennefer",
+            "target": "Ori",
+            "value": 2
+        },
+        {
+            "source": "Yennefer",
+            "target": "Milva",
+            "value": 1.5
+        },
+        {
+            "source": "Ori",
+            "target": "Maria",
+            "value": 1
+        },
+        {
+            "source": "Emhyr",
+            "target": "Milva",
+            "value": 1.5
+        },
+        {
+            "source": "Shilard",
+            "target": "Francesca",
+            "value": 1
+        },
+        {
+            "source": "Ori",
+            "target": "Stefan",
+            "value": 1
+        },
+        {
+            "source": "Philippa",
+            "target": "Stefan",
+            "value": 1
+        },
+        {
+            "source": "Philippa",
+            "target": "Emhyr",
+            "value": 3
+        },
+        {
+            "source": "Stefan",
+            "target": "Emhyr",
+            "value": 1
+        },
+        {
+            "source": "Milva",
+            "target": "Little",
+            "value": 1
+        },
+        {
+            "source": "Little",
+            "target": "Aen",
+            "value": 1
+        },
+        {
+            "source": "Aen",
+            "target": "Milva",
+            "value": 2
+        },
+        {
+            "source": "Milva",
+            "target": "Toruviel",
+            "value": 3
+        },
+        {
+            "source": "Margarita",
+            "target": "Philippa",
+            "value": 2.5
+        },
+        {
+            "source": "Philippa",
+            "target": "Keira",
+            "value": 2.5
+        },
+        {
+            "source": "Keira",
+            "target": "Triss",
+            "value": 2
+        },
+        {
+            "source": "Philippa",
+            "target": "Assire",
+            "value": 6.5
+        },
+        {
+            "source": "Philippa",
+            "target": "Sabrina",
+            "value": 6.5
+        },
+        {
+            "source": "Sabrina",
+            "target": "Sheala",
+            "value": 1
+        },
+        {
+            "source": "Sabrina",
+            "target": "Francesca",
+            "value": 3
+        },
+        {
+            "source": "Sheala",
+            "target": "Francesca",
+            "value": 2.5
+        },
+        {
+            "source": "Francesca",
+            "target": "Philippa",
+            "value": 5
+        },
+        {
+            "source": "Margarita",
+            "target": "Francesca",
+            "value": 1
+        },
+        {
+            "source": "Margarita",
+            "target": "Assire",
+            "value": 2
+        },
+        {
+            "source": "Francesca",
+            "target": "Assire",
+            "value": 5
+        },
+        {
+            "source": "Sabrina",
+            "target": "Emhyr",
+            "value": 2
+        },
+        {
+            "source": "Philippa",
+            "target": "Sheala",
+            "value": 3
+        },
+        {
+            "source": "Assire",
+            "target": "Sabrina",
+            "value": 3
+        },
+        {
+            "source": "Margarita",
+            "target": "Sheala",
+            "value": 2
+        },
+        {
+            "source": "Francesca",
+            "target": "King",
+            "value": 1
+        },
+        {
+            "source": "King",
+            "target": "Assire",
+            "value": 1
+        },
+        {
+            "source": "King",
+            "target": "Triss",
+            "value": 1
+        },
+        {
+            "source": "Francesca",
+            "target": "Triss",
+            "value": 2
+        },
+        {
+            "source": "Francesca",
+            "target": "Keira",
+            "value": 1.5
+        },
+        {
+            "source": "Assire",
+            "target": "Triss",
+            "value": 1.5
+        },
+        {
+            "source": "Assire",
+            "target": "Keira",
+            "value": 1
+        },
+        {
+            "source": "Triss",
+            "target": "Sabrina",
+            "value": 1.5
+        },
+        {
+            "source": "Keira",
+            "target": "Sabrina",
+            "value": 1
+        },
+        {
+            "source": "Francesca",
+            "target": "Emhyr",
+            "value": 1
+        },
+        {
+            "source": "Assire",
+            "target": "Emhyr",
+            "value": 2.5
+        },
+        {
+            "source": "Sabrina",
+            "target": "Margarita",
+            "value": 2
+        },
+        {
+            "source": "Emhyr",
+            "target": "Margarita",
+            "value": 1
+        },
+        {
+            "source": "Emhyr",
+            "target": "Sheala",
+            "value": 1
+        },
+        {
+            "source": "Sheala",
+            "target": "Assire",
+            "value": 1
+        },
+        {
+            "source": "Two",
+            "target": "Mistle",
+            "value": 1
+        },
+        {
+            "source": "Two",
+            "target": "Falka",
+            "value": 1
+        },
+        {
+            "source": "Mistle",
+            "target": "Falka",
+            "value": 3
+        },
+        {
+            "source": "Asse",
+            "target": "Kayleigh",
+            "value": 1
+        },
+        {
+            "source": "Asse",
+            "target": "Little",
+            "value": 1
+        },
+        {
+            "source": "Kayleigh",
+            "target": "Little",
+            "value": 1
+        },
+        {
+            "source": "Falka",
+            "target": "Little",
+            "value": 1
+        },
+        {
+            "source": "Dandelion",
+            "target": "Geralt",
+            "value": 71
+        },
+        {
+            "source": "Dandelion",
+            "target": "Roach",
+            "value": 3
+        },
+        {
+            "source": "Dandelion",
+            "target": "Riordain",
+            "value": 1
+        },
+        {
+            "source": "Aen",
+            "target": "Dandelion",
+            "value": 2
+        },
+        {
+            "source": "Aen",
+            "target": "Geralt",
+            "value": 1
+        },
+        {
+            "source": "Dandelion",
+            "target": "Milva",
+            "value": 60.5
+        },
+        {
+            "source": "Milva",
+            "target": "Ciri",
+            "value": 14
+        },
+        {
+            "source": "Geralt",
+            "target": "Ciri",
+            "value": 7
+        },
+        {
+            "source": "Dandelion",
+            "target": "Ciri",
+            "value": 7
+        },
+        {
+            "source": "Emhyr",
+            "target": "Ciri",
+            "value": 2
+        },
+        {
+            "source": "Geralt",
+            "target": "Emhyr",
+            "value": 2
+        },
+        {
+            "source": "Geralt",
+            "target": "Roach",
+            "value": 2
+        },
+        {
+            "source": "Milva",
+            "target": "Roach",
+            "value": 2.5
+        },
+        {
+            "source": "Dandelion",
+            "target": "Zoltan",
+            "value": 28
+        },
+        {
+            "source": "Milva",
+            "target": "Zoltan",
+            "value": 30.5
+        },
+        {
+            "source": "Milva",
+            "target": "Field",
+            "value": 3
+        },
+        {
+            "source": "Zoltan",
+            "target": "Field",
+            "value": 6.5
+        },
+        {
+            "source": "Field",
+            "target": "Percival",
+            "value": 3
+        },
+        {
+            "source": "Percival",
+            "target": "Zoltan",
+            "value": 21.5
+        },
+        {
+            "source": "Geralt",
+            "target": "Zoltan",
+            "value": 38.5
+        },
+        {
+            "source": "Zoltan",
+            "target": "Munro",
+            "value": 3
+        },
+        {
+            "source": "Zoltan",
+            "target": "Figgis",
+            "value": 1
+        },
+        {
+            "source": "Munro",
+            "target": "Figgis",
+            "value": 1
+        },
+        {
+            "source": "Figgis",
+            "target": "Geralt",
+            "value": 2
+        },
+        {
+            "source": "Figgis",
+            "target": "Dandelion",
+            "value": 1.5
+        },
+        {
+            "source": "Figgis",
+            "target": "Milva",
+            "value": 3
+        },
+        {
+            "source": "Milva",
+            "target": "Percival",
+            "value": 7
+        },
+        {
+            "source": "Percival",
+            "target": "Geralt",
+            "value": 11
+        },
+        {
+            "source": "Munro",
+            "target": "Geralt",
+            "value": 2
+        },
+        {
+            "source": "Geralt",
+            "target": "Field",
+            "value": 5
+        },
+        {
+            "source": "Maria",
+            "target": "Zoltan",
+            "value": 1
+        },
+        {
+            "source": "Munro",
+            "target": "Percival",
+            "value": 1
+        },
+        {
+            "source": "Cahir",
+            "target": "Zoltan",
+            "value": 2
+        },
+        {
+            "source": "Zoltan",
+            "target": "Ciri",
+            "value": 3
+        },
+        {
+            "source": "Geralt",
+            "target": "Cahir",
+            "value": 18
+        },
+        {
+            "source": "Philippa",
+            "target": "Zoltan",
+            "value": 1
+        },
+        {
+            "source": "Zoltan",
+            "target": "King",
+            "value": 1
+        },
+        {
+            "source": "King",
+            "target": "Percival",
+            "value": 1
+        },
+        {
+            "source": "Dandelion",
+            "target": "Field",
+            "value": 3
+        },
+        {
+            "source": "Field",
+            "target": "Two",
+            "value": 1
+        },
+        {
+            "source": "Two",
+            "target": "Zoltan",
+            "value": 2.5
+        },
+        {
+            "source": "Dandelion",
+            "target": "Percival",
+            "value": 9
+        },
+        {
+            "source": "Percival",
+            "target": "Figgis",
+            "value": 1
+        },
+        {
+            "source": "Emiel",
+            "target": "Zoltan",
+            "value": 2.5
+        },
+        {
+            "source": "Emiel",
+            "target": "Geralt",
+            "value": 2.5
+        },
+        {
+            "source": "Geralt",
+            "target": "Sir",
+            "value": 2.5
+        },
+        {
+            "source": "Sir",
+            "target": "Zoltan",
+            "value": 1.5
+        },
+        {
+            "source": "Yennefer",
+            "target": "Dandelion",
+            "value": 2
+        },
+        {
+            "source": "Yennefer",
+            "target": "Geralt",
+            "value": 5.5
+        },
+        {
+            "source": "Geralt",
+            "target": "Two",
+            "value": 2
+        },
+        {
+            "source": "Two",
+            "target": "Percival",
+            "value": 1
+        },
+        {
+            "source": "Zoltan",
+            "target": "Brouver",
+            "value": 1
+        },
+        {
+            "source": "King",
+            "target": "Brouver",
+            "value": 1
+        },
+        {
+            "source": "Dandelion",
+            "target": "Count",
+            "value": 4.5
+        },
+        {
+            "source": "Ciri",
+            "target": "Count",
+            "value": 2
+        },
+        {
+            "source": "Falka",
+            "target": "Ciri",
+            "value": 3
+        },
+        {
+            "source": "Falka",
+            "target": "Kayleigh",
+            "value": 1
+        },
+        {
+            "source": "Ciri",
+            "target": "Kayleigh",
+            "value": 2
+        },
+        {
+            "source": "Emiel",
+            "target": "Percival",
+            "value": 1
+        },
+        {
+            "source": "Munro",
+            "target": "Dandelion",
+            "value": 1
+        },
+        {
+            "source": "Munro",
+            "target": "Milva",
+            "value": 2
+        },
+        {
+            "source": "Two",
+            "target": "Dandelion",
+            "value": 1
+        },
+        {
+            "source": "Percival",
+            "target": "Sir",
+            "value": 1.5
+        },
+        {
+            "source": "Geralt",
+            "target": "Count",
+            "value": 3
+        },
+        {
+            "source": "Field",
+            "target": "Sir",
+            "value": 1
+        },
+        {
+            "source": "Geralt",
+            "target": "Kayleigh",
+            "value": 1
+        },
+        {
+            "source": "Mistle",
+            "target": "Ciri",
+            "value": 4.5
+        },
+        {
+            "source": "Dandelion",
+            "target": "Aubry",
+            "value": 1
+        },
+        {
+            "source": "Dandelion",
+            "target": "Sir",
+            "value": 3.5
+        },
+        {
+            "source": "Aubry",
+            "target": "Sir",
+            "value": 2
+        },
+        {
+            "source": "Aubry",
+            "target": "Geralt",
+            "value": 1
+        },
+        {
+            "source": "Dandelion",
+            "target": "Emhyr",
+            "value": 2
+        },
+        {
+            "source": "Daniel",
+            "target": "Dandelion",
+            "value": 1
+        },
+        {
+            "source": "Count",
+            "target": "Foltest",
+            "value": 1
+        },
+        {
+            "source": "Foltest",
+            "target": "Geralt",
+            "value": 1
+        },
+        {
+            "source": "Calanthe",
+            "target": "Pavetta",
+            "value": 1
+        },
+        {
+            "source": "Calanthe",
+            "target": "Geralt",
+            "value": 1
+        },
+        {
+            "source": "Pavetta",
+            "target": "Geralt",
+            "value": 1
+        },
+        {
+            "source": "Count",
+            "target": "Daniel",
+            "value": 1
+        },
+        {
+            "source": "Dandelion",
+            "target": "Calanthe",
+            "value": 1
+        },
+        {
+            "source": "Daniel",
+            "target": "Calanthe",
+            "value": 1
+        },
+        {
+            "source": "Daniel",
+            "target": "Emhyr",
+            "value": 1
+        },
+        {
+            "source": "Calanthe",
+            "target": "Emhyr",
+            "value": 1.5
+        },
+        {
+            "source": "Vissegerd",
+            "target": "Foltest",
+            "value": 1.5
+        },
+        {
+            "source": "Vissegerd",
+            "target": "Daniel",
+            "value": 1
+        },
+        {
+            "source": "Foltest",
+            "target": "Daniel",
+            "value": 1
+        },
+        {
+            "source": "Vissegerd",
+            "target": "Geralt",
+            "value": 7.5
+        },
+        {
+            "source": "Dandelion",
+            "target": "Vissegerd",
+            "value": 6
+        },
+        {
+            "source": "Vissegerd",
+            "target": "Count",
+            "value": 3.5
+        },
+        {
+            "source": "Count",
+            "target": "Sir",
+            "value": 3
+        },
+        {
+            "source": "Vissegerd",
+            "target": "Sir",
+            "value": 1.5
+        },
+        {
+            "source": "Vreemde",
+            "target": "Morteisen",
+            "value": 1
+        },
+        {
+            "source": "Cahir",
+            "target": "Dandelion",
+            "value": 16.5
+        },
+        {
+            "source": "Sir",
+            "target": "Demavend",
+            "value": 1
+        },
+        {
+            "source": "Demavend",
+            "target": "Vilgefortz",
+            "value": 1
+        },
+        {
+            "source": "Demavend",
+            "target": "Rience",
+            "value": 1
+        },
+        {
+            "source": "Vilgefortz",
+            "target": "Rience",
+            "value": 1
+        },
+        {
+            "source": "Vattier",
+            "target": "Francesca",
+            "value": 1
+        },
+        {
+            "source": "Francesca",
+            "target": "Cahir",
+            "value": 1
+        },
+        {
+            "source": "Cahir",
+            "target": "Rience",
+            "value": 2
+        },
+        {
+            "source": "Stefan",
+            "target": "Vattier",
+            "value": 1
+        },
+        {
+            "source": "Stefan",
+            "target": "Milva",
+            "value": 1
+        },
+        {
+            "source": "Vattier",
+            "target": "Milva",
+            "value": 1
+        },
+        {
+            "source": "Ciri",
+            "target": "Beau",
+            "value": 2
+        },
+        {
+            "source": "Ciri",
+            "target": "Cahir",
+            "value": 4
+        },
+        {
+            "source": "Beau",
+            "target": "Cahir",
+            "value": 1
+        },
+        {
+            "source": "Cahir",
+            "target": "Milva",
+            "value": 18.5
+        },
+        {
+            "source": "Milva",
+            "target": "Fringilla",
+            "value": 1
+        },
+        {
+            "source": "Milva",
+            "target": "Assire",
+            "value": 1
+        },
+        {
+            "source": "Ciri",
+            "target": "Fringilla",
+            "value": 3
+        },
+        {
+            "source": "Ciri",
+            "target": "Assire",
+            "value": 1.5
+        },
+        {
+            "source": "Fringilla",
+            "target": "Assire",
+            "value": 7
+        },
+        {
+            "source": "Fringilla",
+            "target": "Merlin",
+            "value": 1
+        },
+        {
+            "source": "Assire",
+            "target": "Merlin",
+            "value": 1.5
+        },
+        {
+            "source": "Assire",
+            "target": "Albrich",
+            "value": 1
+        },
+        {
+            "source": "King",
+            "target": "Albrich",
+            "value": 1
+        },
+        {
+            "source": "Assire",
+            "target": "Xarthisius",
+            "value": 2
+        },
+        {
+            "source": "Stella",
+            "target": "Assire",
+            "value": 1
+        },
+        {
+            "source": "Stella",
+            "target": "Emhyr",
+            "value": 1
+        },
+        {
+            "source": "Emhyr",
+            "target": "Fringilla",
+            "value": 1
+        },
+        {
+            "source": "Emhyr",
+            "target": "Xarthisius",
+            "value": 1
+        },
+        {
+            "source": "Fringilla",
+            "target": "Xarthisius",
+            "value": 1
+        },
+        {
+            "source": "Emhyr",
+            "target": "Cahir",
+            "value": 3.5
+        },
+        {
+            "source": "Cahir",
+            "target": "Assire",
+            "value": 1.5
+        },
+        {
+            "source": "Cahir",
+            "target": "Fringilla",
+            "value": 1
+        },
+        {
+            "source": "Cahir",
+            "target": "Seven",
+            "value": 1.5
+        },
+        {
+            "source": "Milva",
+            "target": "Seven",
+            "value": 2.5
+        },
+        {
+            "source": "Dandelion",
+            "target": "Gar",
+            "value": 1
+        },
+        {
+            "source": "Vissegerd",
+            "target": "Gar",
+            "value": 1
+        },
+        {
+            "source": "Gar",
+            "target": "Geralt",
+            "value": 1
+        },
+        {
+            "source": "Dandelion",
+            "target": "Seven",
+            "value": 2.5
+        },
+        {
+            "source": "Geralt",
+            "target": "Seven",
+            "value": 3
+        },
+        {
+            "source": "Philippa",
+            "target": "Dandelion",
+            "value": 1
+        },
+        {
+            "source": "Milva",
+            "target": "Emiel",
+            "value": 1
+        },
+        {
+            "source": "Kayleigh",
+            "target": "Mistle",
+            "value": 1
+        },
+        {
+            "source": "Mistle",
+            "target": "Cahir",
+            "value": 1
+        },
+        {
+            "source": "Vattier",
+            "target": "Ida",
+            "value": 1
+        },
+        {
+            "source": "Ida",
+            "target": "Francesca",
+            "value": 1
+        },
+        {
+            "source": "Ida",
+            "target": "Henselt",
+            "value": 1
+        },
+        {
+            "source": "Francesca",
+            "target": "Henselt",
+            "value": 1
+        },
+        {
+            "source": "Philippa",
+            "target": "Ida",
+            "value": 2.5
+        },
+        {
+            "source": "Margarita",
+            "target": "Ida",
+            "value": 1
+        },
+        {
+            "source": "Margarita",
+            "target": "Ithlinne",
+            "value": 1
+        },
+        {
+            "source": "Philippa",
+            "target": "Ithlinne",
+            "value": 1
+        },
+        {
+            "source": "Sabrina",
+            "target": "Ida",
+            "value": 1.5
+        },
+        {
+            "source": "Sabrina",
+            "target": "Ithlinne",
+            "value": 1
+        },
+        {
+            "source": "Ida",
+            "target": "Ithlinne",
+            "value": 1
+        },
+        {
+            "source": "Ithlinne",
+            "target": "Francesca",
+            "value": 1
+        },
+        {
+            "source": "Francesca",
+            "target": "Yennefer",
+            "value": 8
+        },
+        {
+            "source": "Yennefer",
+            "target": "Gar",
+            "value": 1.5
+        },
+        {
+            "source": "Francesca",
+            "target": "Gar",
+            "value": 1
+        },
+        {
+            "source": "Francesca",
+            "target": "Ciri",
+            "value": 2.5
+        },
+        {
+            "source": "Gar",
+            "target": "Ciri",
+            "value": 1
+        },
+        {
+            "source": "Ciri",
+            "target": "Yennefer",
+            "value": 8.5
+        },
+        {
+            "source": "Yennefer",
+            "target": "Vilgefortz",
+            "value": 3
+        },
+        {
+            "source": "Yennefer",
+            "target": "Tissaia",
+            "value": 1
+        },
+        {
+            "source": "Francesca",
+            "target": "Vilgefortz",
+            "value": 1
+        },
+        {
+            "source": "Francesca",
+            "target": "Tissaia",
+            "value": 1
+        },
+        {
+            "source": "Vilgefortz",
+            "target": "Tissaia",
+            "value": 1
+        },
+        {
+            "source": "Geralt",
+            "target": "Francesca",
+            "value": 1
+        },
+        {
+            "source": "Keira",
+            "target": "Ciri",
+            "value": 1
+        },
+        {
+            "source": "Ciri",
+            "target": "Vilgefortz",
+            "value": 2.5
+        },
+        {
+            "source": "Yennefer",
+            "target": "Triss",
+            "value": 3.5
+        },
+        {
+            "source": "Yennefer",
+            "target": "Philippa",
+            "value": 5.5
+        },
+        {
+            "source": "Ciri",
+            "target": "Philippa",
+            "value": 2
+        },
+        {
+            "source": "Fringilla",
+            "target": "Philippa",
+            "value": 6.5
+        },
+        {
+            "source": "Fringilla",
+            "target": "Triss",
+            "value": 1.5
+        },
+        {
+            "source": "Sabrina",
+            "target": "Fringilla",
+            "value": 1.5
+        },
+        {
+            "source": "Fringilla",
+            "target": "Keira",
+            "value": 1
+        },
+        {
+            "source": "Yennefer",
+            "target": "Keira",
+            "value": 1
+        },
+        {
+            "source": "Keira",
+            "target": "Ida",
+            "value": 1
+        },
+        {
+            "source": "Triss",
+            "target": "Ida",
+            "value": 1
+        },
+        {
+            "source": "Triss",
+            "target": "Blue",
+            "value": 1
+        },
+        {
+            "source": "Philippa",
+            "target": "Blue",
+            "value": 1
+        },
+        {
+            "source": "Philippa",
+            "target": "Aen",
+            "value": 1
+        },
+        {
+            "source": "Fringilla",
+            "target": "Ida",
+            "value": 1.5
+        },
+        {
+            "source": "Fringilla",
+            "target": "Blue",
+            "value": 1
+        },
+        {
+            "source": "Fringilla",
+            "target": "Aen",
+            "value": 1.5
+        },
+        {
+            "source": "Ida",
+            "target": "Blue",
+            "value": 1
+        },
+        {
+            "source": "Ida",
+            "target": "Aen",
+            "value": 2
+        },
+        {
+            "source": "Blue",
+            "target": "Aen",
+            "value": 2
+        },
+        {
+            "source": "Fringilla",
+            "target": "Yennefer",
+            "value": 10
+        },
+        {
+            "source": "Ciri",
+            "target": "Iskra",
+            "value": 2
+        },
+        {
+            "source": "Ciri",
+            "target": "Asse",
+            "value": 1
+        },
+        {
+            "source": "Iskra",
+            "target": "Kayleigh",
+            "value": 1
+        },
+        {
+            "source": "Baron",
+            "target": "Philippa",
+            "value": 1
+        },
+        {
+            "source": "Assire",
+            "target": "Yennefer",
+            "value": 4.5
+        },
+        {
+            "source": "Assire",
+            "target": "Rience",
+            "value": 1
+        },
+        {
+            "source": "Rience",
+            "target": "Ciri",
+            "value": 1
+        },
+        {
+            "source": "Tissaia",
+            "target": "Ida",
+            "value": 1
+        },
+        {
+            "source": "Ida",
+            "target": "Assire",
+            "value": 1
+        },
+        {
+            "source": "Francesca",
+            "target": "Falka",
+            "value": 2
+        },
+        {
+            "source": "Falka",
+            "target": "Sabrina",
+            "value": 1
+        },
+        {
+            "source": "Falka",
+            "target": "Assire",
+            "value": 1.5
+        },
+        {
+            "source": "Falka",
+            "target": "Yennefer",
+            "value": 1
+        },
+        {
+            "source": "Philippa",
+            "target": "Falka",
+            "value": 2
+        },
+        {
+            "source": "Falka",
+            "target": "Anna",
+            "value": 1
+        },
+        {
+            "source": "Ciri",
+            "target": "Anna",
+            "value": 1
+        },
+        {
+            "source": "Anna",
+            "target": "Beau",
+            "value": 1
+        },
+        {
+            "source": "Anna",
+            "target": "Francesca",
+            "value": 1
+        },
+        {
+            "source": "Beau",
+            "target": "Francesca",
+            "value": 1
+        },
+        {
+            "source": "Sabrina",
+            "target": "Adalia",
+            "value": 1
+        },
+        {
+            "source": "Adalia",
+            "target": "Assire",
+            "value": 2
+        },
+        {
+            "source": "Francesca",
+            "target": "Adalia",
+            "value": 1
+        },
+        {
+            "source": "Adalia",
+            "target": "Yennefer",
+            "value": 2
+        },
+        {
+            "source": "Adalia",
+            "target": "Calanthe",
+            "value": 1
+        },
+        {
+            "source": "Adalia",
+            "target": "Margarita",
+            "value": 1
+        },
+        {
+            "source": "Adalia",
+            "target": "Anna",
+            "value": 1
+        },
+        {
+            "source": "Calanthe",
+            "target": "Margarita",
+            "value": 1
+        },
+        {
+            "source": "Calanthe",
+            "target": "Anna",
+            "value": 1
+        },
+        {
+            "source": "Margarita",
+            "target": "Anna",
+            "value": 1
+        },
+        {
+            "source": "Anna",
+            "target": "Assire",
+            "value": 1
+        },
+        {
+            "source": "Geralt",
+            "target": "Fringilla",
+            "value": 1
+        },
+        {
+            "source": "Ciri",
+            "target": "Sabrina",
+            "value": 2.5
+        },
+        {
+            "source": "Triss",
+            "target": "Emhyr",
+            "value": 1
+        },
+        {
+            "source": "Emhyr",
+            "target": "Keira",
+            "value": 2
+        },
+        {
+            "source": "Emhyr",
+            "target": "Yennefer",
+            "value": 1
+        },
+        {
+            "source": "Vilgefortz",
+            "target": "Sir",
+            "value": 3
+        },
+        {
+            "source": "Vilgefortz",
+            "target": "Ida",
+            "value": 2
+        },
+        {
+            "source": "Ida",
+            "target": "Yennefer",
+            "value": 1
+        },
+        {
+            "source": "Ida",
+            "target": "Ciri",
+            "value": 2
+        },
+        {
+            "source": "Yennefer",
+            "target": "Margarita",
+            "value": 1
+        },
+        {
+            "source": "Yennefer",
+            "target": "Sabrina",
+            "value": 1.5
+        },
+        {
+            "source": "Margarita",
+            "target": "Ciri",
+            "value": 2
+        },
+        {
+            "source": "Margarita",
+            "target": "Vilgefortz",
+            "value": 1
+        },
+        {
+            "source": "Sabrina",
+            "target": "Vilgefortz",
+            "value": 1
+        },
+        {
+            "source": "Triss",
+            "target": "Geralt",
+            "value": 1
+        },
+        {
+            "source": "Fringilla",
+            "target": "Two",
+            "value": 1
+        },
+        {
+            "source": "Two",
+            "target": "Seven",
+            "value": 1
+        },
+        {
+            "source": "Two",
+            "target": "Connor",
+            "value": 1
+        },
+        {
+            "source": "Seven",
+            "target": "Connor",
+            "value": 1
+        },
+        {
+            "source": "Geralt",
+            "target": "Forest",
+            "value": 1
+        },
+        {
+            "source": "Emiel",
+            "target": "Roach",
+            "value": 1
+        },
+        {
+            "source": "Roach",
+            "target": "Cahir",
+            "value": 1
+        },
+        {
+            "source": "Geralt",
+            "target": "Blue",
+            "value": 1
+        },
+        {
+            "source": "Milva",
+            "target": "Blue",
+            "value": 1
+        },
+        {
+            "source": "Blue",
+            "target": "Cahir",
+            "value": 2
+        },
+        {
+            "source": "King",
+            "target": "Dandelion",
+            "value": 1
+        },
+        {
+            "source": "Geralt",
+            "target": "Ethain",
+            "value": 1
+        },
+        {
+            "source": "Ethain",
+            "target": "Cahir",
+            "value": 2
+        },
+        {
+            "source": "Ethain",
+            "target": "Dandelion",
+            "value": 1
+        },
+        {
+            "source": "Cahir",
+            "target": "Vissegerd",
+            "value": 1
+        },
+        {
+            "source": "Geralt",
+            "target": "Vesemir",
+            "value": 1
+        },
+        {
+            "source": "Geralt",
+            "target": "Dyffryn",
+            "value": 1
+        },
+        {
+            "source": "Vesemir",
+            "target": "Dandelion",
+            "value": 1
+        },
+        {
+            "source": "Vesemir",
+            "target": "Cahir",
+            "value": 1
+        },
+        {
+            "source": "Vesemir",
+            "target": "Dyffryn",
+            "value": 1
+        },
+        {
+            "source": "Dandelion",
+            "target": "Dyffryn",
+            "value": 1
+        },
+        {
+            "source": "Cahir",
+            "target": "Dyffryn",
+            "value": 1
+        },
+        {
+            "source": "Cahir",
+            "target": "Two",
+            "value": 1
+        },
+        {
+            "source": "Meve",
+            "target": "Geralt",
+            "value": 4
+        },
+        {
+            "source": "Meve",
+            "target": "Milva",
+            "value": 1
+        }
+    ],
+    "nodes": [
+        {
+            "group": 1,
+            "id": "Geralt",
+            "totalLinkNum": 35
+        },
+        {
+            "group": 1,
+            "id": "Dandelion",
+            "totalLinkNum": 28
+        },
+        {
+            "group": 2,
+            "id": "Milva",
+            "totalLinkNum": 27
+        },
+        {
+            "group": 1,
+            "id": "Ciri",
+            "totalLinkNum": 26
+        },
+        {
+            "group": 2,
+            "id": "Francesca",
+            "totalLinkNum": 25
+        },
+        {
+            "group": 2,
+            "id": "Assire",
+            "totalLinkNum": 23
+        },
+        {
+            "group": 1,
+            "id": "Philippa",
+            "totalLinkNum": 21
+        },
+        {
+            "group": 1,
+            "id": "Yennefer",
+            "totalLinkNum": 21
+        },
+        {
+            "group": 2,
+            "id": "Emhyr",
+            "totalLinkNum": 20
+        },
+        {
+            "group": 2,
+            "id": "Cahir",
+            "totalLinkNum": 20
+        },
+        {
+            "group": 2,
+            "id": "Fringilla",
+            "totalLinkNum": 17
+        },
+        {
+            "group": 2,
+            "id": "Ida",
+            "totalLinkNum": 17
+        },
+        {
+            "group": 2,
+            "id": "Sabrina",
+            "totalLinkNum": 16
+        },
+        {
+            "group": 2,
+            "id": "Zoltan",
+            "totalLinkNum": 16
+        },
+        {
+            "group": 2,
+            "id": "Margarita",
+            "totalLinkNum": 14
+        },
+        {
+            "group": 2,
+            "id": "Triss",
+            "totalLinkNum": 13
+        },
+        {
+            "group": 2,
+            "id": "Two",
+            "totalLinkNum": 11
+        },
+        {
+            "group": 2,
+            "id": "Falka",
+            "totalLinkNum": 11
+        },
+        {
+            "group": 2,
+            "id": "Percival",
+            "totalLinkNum": 11
+        },
+        {
+            "group": 2,
+            "id": "Keira",
+            "totalLinkNum": 10
+        },
+        {
+            "group": 2,
+            "id": "Sir",
+            "totalLinkNum": 10
+        },
+        {
+            "group": 2,
+            "id": "Vilgefortz",
+            "totalLinkNum": 10
+        },
+        {
+            "group": 2,
+            "id": "Aen",
+            "totalLinkNum": 8
+        },
+        {
+            "group": 2,
+            "id": "King",
+            "totalLinkNum": 8
+        },
+        {
+            "group": 2,
+            "id": "Calanthe",
+            "totalLinkNum": 8
+        },
+        {
+            "group": 2,
+            "id": "Vissegerd",
+            "totalLinkNum": 8
+        },
+        {
+            "group": 2,
+            "id": "Blue",
+            "totalLinkNum": 8
+        },
+        {
+            "group": 2,
+            "id": "Anna",
+            "totalLinkNum": 8
+        },
+        {
+            "group": 2,
+            "id": "Ori",
+            "totalLinkNum": 7
+        },
+        {
+            "group": 2,
+            "id": "Kayleigh",
+            "totalLinkNum": 7
+        },
+        {
+            "group": 2,
+            "id": "Field",
+            "totalLinkNum": 7
+        },
+        {
+            "group": 2,
+            "id": "Count",
+            "totalLinkNum": 7
+        },
+        {
+            "group": 2,
+            "id": "Adalia",
+            "totalLinkNum": 7
+        },
+        {
+            "group": 2,
+            "id": "Sheala",
+            "totalLinkNum": 6
+        },
+        {
+            "group": 2,
+            "id": "Munro",
+            "totalLinkNum": 6
+        },
+        {
+            "group": 2,
+            "id": "Figgis",
+            "totalLinkNum": 6
+        },
+        {
+            "group": 2,
+            "id": "Daniel",
+            "totalLinkNum": 6
+        },
+        {
+            "group": 2,
+            "id": "Seven",
+            "totalLinkNum": 6
+        },
+        {
+            "group": 2,
+            "id": "Gar",
+            "totalLinkNum": 6
+        },
+        {
+            "group": 2,
+            "id": "Stefan",
+            "totalLinkNum": 5
+        },
+        {
+            "group": 2,
+            "id": "Little",
+            "totalLinkNum": 5
+        },
+        {
+            "group": 2,
+            "id": "Mistle",
+            "totalLinkNum": 5
+        },
+        {
+            "group": 2,
+            "id": "Roach",
+            "totalLinkNum": 5
+        },
+        {
+            "group": 2,
+            "id": "Emiel",
+            "totalLinkNum": 5
+        },
+        {
+            "group": 2,
+            "id": "Rience",
+            "totalLinkNum": 5
+        },
+        {
+            "group": 2,
+            "id": "Ithlinne",
+            "totalLinkNum": 5
+        },
+        {
+            "group": 2,
+            "id": "Maria",
+            "totalLinkNum": 4
+        },
+        {
+            "group": 1,
+            "id": "Foltest",
+            "totalLinkNum": 4
+        },
+        {
+            "group": 2,
+            "id": "Vattier",
+            "totalLinkNum": 4
+        },
+        {
+            "group": 2,
+            "id": "Beau",
+            "totalLinkNum": 4
+        },
+        {
+            "group": 2,
+            "id": "Tissaia",
+            "totalLinkNum": 4
+        },
+        {
+            "group": 1,
+            "id": "Vesemir",
+            "totalLinkNum": 4
+        },
+        {
+            "group": 2,
+            "id": "Dyffryn",
+            "totalLinkNum": 4
+        },
+        {
+            "group": 2,
+            "id": "Asse",
+            "totalLinkNum": 3
+        },
+        {
+            "group": 2,
+            "id": "Aubry",
+            "totalLinkNum": 3
+        },
+        {
+            "group": 2,
+            "id": "Demavend",
+            "totalLinkNum": 3
+        },
+        {
+            "group": 2,
+            "id": "Xarthisius",
+            "totalLinkNum": 3
+        },
+        {
+            "group": 2,
+            "id": "Ethain",
+            "totalLinkNum": 3
+        },
+        {
+            "group": 2,
+            "id": "Forest",
+            "totalLinkNum": 2
+        },
+        {
+            "group": 2,
+            "id": "Artaud",
+            "totalLinkNum": 2
+        },
+        {
+            "group": 2,
+            "id": "Brouver",
+            "totalLinkNum": 2
+        },
+        {
+            "group": 2,
+            "id": "Pavetta",
+            "totalLinkNum": 2
+        },
+        {
+            "group": 2,
+            "id": "Merlin",
+            "totalLinkNum": 2
+        },
+        {
+            "group": 2,
+            "id": "Albrich",
+            "totalLinkNum": 2
+        },
+        {
+            "group": 2,
+            "id": "Stella",
+            "totalLinkNum": 2
+        },
+        {
+            "group": 2,
+            "id": "Henselt",
+            "totalLinkNum": 2
+        },
+        {
+            "group": 2,
+            "id": "Iskra",
+            "totalLinkNum": 2
+        },
+        {
+            "group": 2,
+            "id": "Connor",
+            "totalLinkNum": 2
+        },
+        {
+            "group": 2,
+            "id": "Meve",
+            "totalLinkNum": 2
+        },
+        {
+            "group": 2,
+            "id": "Codringher",
+            "totalLinkNum": 1
+        },
+        {
+            "group": 2,
+            "id": "Shilard",
+            "totalLinkNum": 1
+        },
+        {
+            "group": 2,
+            "id": "Toruviel",
+            "totalLinkNum": 1
+        },
+        {
+            "group": 2,
+            "id": "Riordain",
+            "totalLinkNum": 1
+        },
+        {
+            "group": 2,
+            "id": "Vreemde",
+            "totalLinkNum": 1
+        },
+        {
+            "group": 2,
+            "id": "Morteisen",
+            "totalLinkNum": 1
+        },
+        {
+            "group": 2,
+            "id": "Baron",
+            "totalLinkNum": 1
+        }
+    ]
+}

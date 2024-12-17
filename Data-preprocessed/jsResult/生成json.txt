@@ -1,0 +1,1 @@
+利用本文件生成json文件；json文件由两个对象组成:对象一 nodes，成员id值为本文件Source或者Target的值，不能重复，成员group值为本文件group的值, 成员totalLinkNum为nodes的值等于Source的值或者nodes的值等于Target的值行数之和，并根据totalLinkNum值从大到小排序；对象二 links，成员source为本文件Source的值，target的值为本文件Target的值，value的值为本文件Weight的值

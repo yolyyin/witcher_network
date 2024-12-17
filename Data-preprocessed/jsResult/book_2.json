@@ -1,0 +1,656 @@
+{
+    "nodes": [
+        {
+            "id": "Geralt",
+            "group": "1",
+            "totalLinkNum": 30
+        },
+        {
+            "id": "Dandelion",
+            "group": "1",
+            "totalLinkNum": 18
+        },
+        {
+            "id": "Ciri",
+            "group": "1",
+            "totalLinkNum": 12
+        },
+        {
+            "id": "Braenn",
+            "group": "1",
+            "totalLinkNum": 9
+        },
+        {
+            "id": "Yurga",
+            "group": "2",
+            "totalLinkNum": 9
+        },
+        {
+            "id": "Yennefer",
+            "group": "1",
+            "totalLinkNum": 7
+        },
+        {
+            "id": "Eithn¨¦",
+            "group": "1",
+            "totalLinkNum": 7
+        },
+        {
+            "id": "Sir",
+            "group": "2",
+            "totalLinkNum": 6
+        },
+        {
+            "id": "Agloval",
+            "group": "1",
+            "totalLinkNum": 6
+        },
+        {
+            "id": "Essi",
+            "group": "1",
+            "totalLinkNum": 6
+        },
+        {
+            "id": "Freixenet",
+            "group": "1",
+            "totalLinkNum": 6
+        },
+        {
+            "id": "Calanthe",
+            "group": "2",
+            "totalLinkNum": 6
+        },
+        {
+            "id": "Little",
+            "group": "1",
+            "totalLinkNum": 5
+        },
+        {
+            "id": "Mousesack",
+            "group": "2",
+            "totalLinkNum": 5
+        },
+        {
+            "id": "Istredd",
+            "group": "1",
+            "totalLinkNum": 4
+        },
+        {
+            "id": "Herbolth",
+            "group": "1",
+            "totalLinkNum": 4
+        },
+        {
+            "id": "Sword",
+            "group": "1",
+            "totalLinkNum": 4
+        },
+        {
+            "id": "Duke",
+            "group": "1",
+            "totalLinkNum": 4
+        },
+        {
+            "id": "Zelest",
+            "group": "1",
+            "totalLinkNum": 4
+        },
+        {
+            "id": "Seven",
+            "group": "1",
+            "totalLinkNum": 3
+        },
+        {
+            "id": "Teleri",
+            "group": "1",
+            "totalLinkNum": 3
+        },
+        {
+            "id": "Venzlav",
+            "group": "2",
+            "totalLinkNum": 3
+        },
+        {
+            "id": "Pavetta",
+            "group": "1",
+            "totalLinkNum": 3
+        },
+        {
+            "id": "Roach",
+            "group": "1",
+            "totalLinkNum": 3
+        },
+        {
+            "id": "Beau",
+            "group": "2",
+            "totalLinkNum": 2
+        },
+        {
+            "id": "Vespula",
+            "group": "1",
+            "totalLinkNum": 2
+        },
+        {
+            "id": "Gar",
+            "group": "1",
+            "totalLinkNum": 2
+        },
+        {
+            "id": "Dudu",
+            "group": "1",
+            "totalLinkNum": 2
+        },
+        {
+            "id": "Vimme",
+            "group": "1",
+            "totalLinkNum": 2
+        },
+        {
+            "id": "Aen",
+            "group": "1",
+            "totalLinkNum": 2
+        },
+        {
+            "id": "King",
+            "group": "2",
+            "totalLinkNum": 2
+        },
+        {
+            "id": "Visenna",
+            "group": "2",
+            "totalLinkNum": 2
+        },
+        {
+            "id": "Triss",
+            "group": "1",
+            "totalLinkNum": 2
+        },
+        {
+            "id": "Veverka",
+            "group": "1",
+            "totalLinkNum": 1
+        },
+        {
+            "id": "Two",
+            "group": "1",
+            "totalLinkNum": 1
+        },
+        {
+            "id": "Guy",
+            "group": "1",
+            "totalLinkNum": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "Yennefer",
+            "target": "Geralt",
+            "value": 16.0
+        },
+        {
+            "source": "Istredd",
+            "target": "Geralt",
+            "value": 24.0
+        },
+        {
+            "source": "Istredd",
+            "target": "Yennefer",
+            "value": 7.0
+        },
+        {
+            "source": "Geralt",
+            "target": "Herbolth",
+            "value": 13.5
+        },
+        {
+            "source": "Geralt",
+            "target": "Seven",
+            "value": 1.0
+        },
+        {
+            "source": "Herbolth",
+            "target": "Seven",
+            "value": 1.0
+        },
+        {
+            "source": "Seven",
+            "target": "Sir",
+            "value": 1.0
+        },
+        {
+            "source": "Sir",
+            "target": "Herbolth",
+            "value": 1.0
+        },
+        {
+            "source": "Istredd",
+            "target": "Herbolth",
+            "value": 3.5
+        },
+        {
+            "source": "Istredd",
+            "target": "Beau",
+            "value": 1.0
+        },
+        {
+            "source": "Yennefer",
+            "target": "Beau",
+            "value": 1.0
+        },
+        {
+            "source": "Vespula",
+            "target": "Dandelion",
+            "value": 3.5
+        },
+        {
+            "source": "Vespula",
+            "target": "Geralt",
+            "value": 4.0
+        },
+        {
+            "source": "Dandelion",
+            "target": "Geralt",
+            "value": 81.0
+        },
+        {
+            "source": "Dandelion",
+            "target": "Gar",
+            "value": 2.0
+        },
+        {
+            "source": "Geralt",
+            "target": "Gar",
+            "value": 1.0
+        },
+        {
+            "source": "Geralt",
+            "target": "Dudu",
+            "value": 7.0
+        },
+        {
+            "source": "Dandelion",
+            "target": "Dudu",
+            "value": 2.0
+        },
+        {
+            "source": "Vimme",
+            "target": "Dandelion",
+            "value": 3.5
+        },
+        {
+            "source": "Geralt",
+            "target": "Vimme",
+            "value": 1.5
+        },
+        {
+            "source": "Dandelion",
+            "target": "Little",
+            "value": 6.5
+        },
+        {
+            "source": "Dandelion",
+            "target": "Sword",
+            "value": 4.0
+        },
+        {
+            "source": "Little",
+            "target": "Sword",
+            "value": 1.0
+        },
+        {
+            "source": "Little",
+            "target": "Geralt",
+            "value": 6.0
+        },
+        {
+            "source": "Sword",
+            "target": "Geralt",
+            "value": 2.0
+        },
+        {
+            "source": "Geralt",
+            "target": "Agloval",
+            "value": 11.5
+        },
+        {
+            "source": "Dandelion",
+            "target": "Teleri",
+            "value": 1.5
+        },
+        {
+            "source": "Geralt",
+            "target": "Teleri",
+            "value": 1.0
+        },
+        {
+            "source": "Geralt",
+            "target": "Essi",
+            "value": 26.0
+        },
+        {
+            "source": "Teleri",
+            "target": "Essi",
+            "value": 1.0
+        },
+        {
+            "source": "Dandelion",
+            "target": "Essi",
+            "value": 9.0
+        },
+        {
+            "source": "Little",
+            "target": "Agloval",
+            "value": 3.5
+        },
+        {
+            "source": "Little",
+            "target": "Essi",
+            "value": 4.5
+        },
+        {
+            "source": "Agloval",
+            "target": "Essi",
+            "value": 10.5
+        },
+        {
+            "source": "Agloval",
+            "target": "Dandelion",
+            "value": 3.0
+        },
+        {
+            "source": "Dandelion",
+            "target": "Duke",
+            "value": 1.0
+        },
+        {
+            "source": "Geralt",
+            "target": "Duke",
+            "value": 3.0
+        },
+        {
+            "source": "Geralt",
+            "target": "Zelest",
+            "value": 6.0
+        },
+        {
+            "source": "Dandelion",
+            "target": "Zelest",
+            "value": 2.0
+        },
+        {
+            "source": "Zelest",
+            "target": "Agloval",
+            "value": 3.0
+        },
+        {
+            "source": "Zelest",
+            "target": "Duke",
+            "value": 1.5
+        },
+        {
+            "source": "Duke",
+            "target": "Agloval",
+            "value": 1.5
+        },
+        {
+            "source": "Dandelion",
+            "target": "Veverka",
+            "value": 1.5
+        },
+        {
+            "source": "Yennefer",
+            "target": "Dandelion",
+            "value": 1.5
+        },
+        {
+            "source": "Essi",
+            "target": "Yennefer",
+            "value": 1.0
+        },
+        {
+            "source": "Dandelion",
+            "target": "Braenn",
+            "value": 2.0
+        },
+        {
+            "source": "Sword",
+            "target": "Braenn",
+            "value": 1.0
+        },
+        {
+            "source": "Braenn",
+            "target": "Geralt",
+            "value": 17.5
+        },
+        {
+            "source": "Geralt",
+            "target": "Freixenet",
+            "value": 13.5
+        },
+        {
+            "source": "Geralt",
+            "target": "Eithn¨¦",
+            "value": 15.5
+        },
+        {
+            "source": "Braenn",
+            "target": "Ciri",
+            "value": 11.5
+        },
+        {
+            "source": "Geralt",
+            "target": "Ciri",
+            "value": 26.5
+        },
+        {
+            "source": "Ciri",
+            "target": "Sir",
+            "value": 2.0
+        },
+        {
+            "source": "Braenn",
+            "target": "Sir",
+            "value": 2.0
+        },
+        {
+            "source": "Sir",
+            "target": "Freixenet",
+            "value": 2.0
+        },
+        {
+            "source": "Braenn",
+            "target": "Eithn¨¦",
+            "value": 7.0
+        },
+        {
+            "source": "Eithn¨¦",
+            "target": "Ciri",
+            "value": 9.5
+        },
+        {
+            "source": "Geralt",
+            "target": "Aen",
+            "value": 1.0
+        },
+        {
+            "source": "Aen",
+            "target": "Braenn",
+            "value": 2.0
+        },
+        {
+            "source": "Ciri",
+            "target": "Freixenet",
+            "value": 6.5
+        },
+        {
+            "source": "Braenn",
+            "target": "Freixenet",
+            "value": 1.0
+        },
+        {
+            "source": "Eithn¨¦",
+            "target": "Venzlav",
+            "value": 1.5
+        },
+        {
+            "source": "Geralt",
+            "target": "Venzlav",
+            "value": 4.0
+        },
+        {
+            "source": "Venzlav",
+            "target": "Freixenet",
+            "value": 4.0
+        },
+        {
+            "source": "Eithn¨¦",
+            "target": "Freixenet",
+            "value": 1.0
+        },
+        {
+            "source": "Yennefer",
+            "target": "Eithn¨¦",
+            "value": 1.0
+        },
+        {
+            "source": "Eithn¨¦",
+            "target": "Calanthe",
+            "value": 1.5
+        },
+        {
+            "source": "Geralt",
+            "target": "Calanthe",
+            "value": 21.5
+        },
+        {
+            "source": "Ciri",
+            "target": "Pavetta",
+            "value": 2.0
+        },
+        {
+            "source": "Two",
+            "target": "Ciri",
+            "value": 1.0
+        },
+        {
+            "source": "Ciri",
+            "target": "Guy",
+            "value": 1.0
+        },
+        {
+            "source": "Braenn",
+            "target": "Mousesack",
+            "value": 1.0
+        },
+        {
+            "source": "Calanthe",
+            "target": "Ciri",
+            "value": 1.0
+        },
+        {
+            "source": "Calanthe",
+            "target": "Mousesack",
+            "value": 4.5
+        },
+        {
+            "source": "Ciri",
+            "target": "Mousesack",
+            "value": 2.5
+        },
+        {
+            "source": "Geralt",
+            "target": "Mousesack",
+            "value": 10.0
+        },
+        {
+            "source": "Yurga",
+            "target": "King",
+            "value": 2.5
+        },
+        {
+            "source": "Yurga",
+            "target": "Sir",
+            "value": 1.5
+        },
+        {
+            "source": "Yurga",
+            "target": "Yennefer",
+            "value": 1.0
+        },
+        {
+            "source": "Geralt",
+            "target": "King",
+            "value": 2.0
+        },
+        {
+            "source": "Geralt",
+            "target": "Yurga",
+            "value": 24.0
+        },
+        {
+            "source": "Yurga",
+            "target": "Mousesack",
+            "value": 1.0
+        },
+        {
+            "source": "Calanthe",
+            "target": "Pavetta",
+            "value": 7.0
+        },
+        {
+            "source": "Geralt",
+            "target": "Pavetta",
+            "value": 6.0
+        },
+        {
+            "source": "Yurga",
+            "target": "Visenna",
+            "value": 2.0
+        },
+        {
+            "source": "Visenna",
+            "target": "Geralt",
+            "value": 13.5
+        },
+        {
+            "source": "Geralt",
+            "target": "Triss",
+            "value": 1.5
+        },
+        {
+            "source": "Yurga",
+            "target": "Triss",
+            "value": 1.0
+        },
+        {
+            "source": "Geralt",
+            "target": "Roach",
+            "value": 2.0
+        },
+        {
+            "source": "Yurga",
+            "target": "Roach",
+            "value": 1.5
+        },
+        {
+            "source": "Roach",
+            "target": "Dandelion",
+            "value": 3.0
+        },
+        {
+            "source": "Dandelion",
+            "target": "Calanthe",
+            "value": 2.5
+        },
+        {
+            "source": "Ciri",
+            "target": "Dandelion",
+            "value": 1.0
+        },
+        {
+            "source": "Yurga",
+            "target": "Ciri",
+            "value": 3.5
+        }
+    ]
+}

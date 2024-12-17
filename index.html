@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Witcher Network</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="scripts.js"></script>
+</head>
+<body>
+  <header>
+    <aside class="header-date">Dec 14, 2024</aside>
+    <a href="https://github.com/yolyyin" rel="author">Tingyun Yin</a>
+  </header>
+  <section class="selectable">
+     <h1>Visualization of the characters' network in the novel of <em>the Witcher</em></h1>
+     <div id="info">
+       <p>
+          The visulization shows the social networks in the 7 series books of the novel <em><a href="https://en.wikipedia.org/wiki/The_Witcher" rel="book name">the Witcher</a></em>. In the left main network graph, the flag of being a major character or not is encoded by the color channel, while the connection intensity is encoded by the color opacity channel and the width channel of the connection lines. The total popularity of a character is coded with the node size channel. In the right subnetwork graph of a single character, while the color channel is of the same use, the link width channel and the text channel are used to encode the connection intensity. The information tabs at the bottom right of the view display detailed information about each character and their strongest connected best pal in texts.
+       </p>
+     </div>
+  </section>
+  <div class="button-container">
+    <button onclick="changeBook(1)">book 1</button>
+    <button onclick="changeBook(2)">book 2</button>
+    <button onclick="changeBook(3)">book 3</button>
+    <button onclick="changeBook(4)">book 4</button>
+    <button onclick="changeBook(5)">book 5</button>
+    <button onclick="changeBook(6)">book 6</button>
+    <button onclick="changeBook(7)">book 7</button>
+  </div>
+  <section id="chart" style="float: left;width: 60%; height:800px;"></section>
+  <section id="chart2" style="float: right; width: 40%; height:470px"></section>
+  <section id="info-card1" class="info-card" style="float: left; width: 16%; height:280px;">
+	<p>Click a character node to see his/her best pal.</p>
+  </section>
+  <section id="info-card2" class="info-card" style="float: left; width: 16%; height:280px;">
+  </section>
+</body>
+</html>
+
+
